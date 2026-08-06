@@ -21,5 +21,5 @@ This module covers the core basics of Python programming using real-world busine
 ---
 
  ## 📁 Repository Files
-* [01_python_basics.py](./01_python_basics.py) — Complete Python code with clear comments and outputs.
-* [README.md](./README.md) — Project documentation and business scenario guide.
+*  [01_python_basics.py](01_Python_Core_Logic/01_python_basics.py — Complete Python code with clear comments and outputs.
+*  [README.md](01_Python_Core_Logic/README.md)— Project documentation and business scenario guide.
