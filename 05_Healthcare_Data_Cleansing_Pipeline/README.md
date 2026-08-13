@@ -30,7 +30,7 @@ This project builds an automated **Data Cleansing and Analytics Pipeline** to tr
 
 ## 🖼️ VISUAL ANALYTICS DASHBOARD
 
-![Healthcare Analytics Summary Dashboard](./healthcare_analytics_summary(!).png)
+![Healthcare Analytics Summary Dashboard](./healthcare_analytics_summary(1).png)
 
 ---
 
